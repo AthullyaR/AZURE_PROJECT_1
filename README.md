@@ -1,6 +1,6 @@
 # AZURE_PROJECT_1
-# A subnet for firewall and subnet for web app where virtual machine is created (private) and an nginx application is installed. Since it is private only specified user has access to it.
-# Request from user goes through firewall and reaches the web app. 
+### A subnet for firewall and subnet for web app where virtual machine is created (private) and an nginx application is installed. Since it is private only specified user has access to it.
+### Request from user goes through firewall and reaches the web app. 
 1.Create resource group
 2.Create virtual network
   1.Enable bastion
